@@ -1,0 +1,28 @@
+// function convertVowCon(str) {
+//   let vowels = "aeiouAEIOU";
+//   let vowelsArr = vowels.split("");
+//   console.log(vowelsArr);
+//   let newArr = "";
+//   for (let i = 0; i < str.length; i++) {
+//     if (vowelsArr.includes(str[i])) {
+//       newArr += 0;
+//     } else if (!vowelsArr.includes(str[i])) {
+//       newArr += 1;
+//     } else if (strArr[i] == " ") {
+//       newArr += " ";
+//     }
+//     //    for (let j = 0; i < vowelsArr.length; i++) {
+//     //        if (str)
+//     //    }
+//   }
+//   return newArr;
+// }
+// console.log(convertVowCon("I Love Coding")); // 0 1010 101011
+// console.log(convertVowCon("WhiteBoarding is fun")); // 1101010011011 01 101
+
+let a = 63;
+
+console.log(a.toString(2)) 
+
+console.log((0.1 + 0.2))
+
